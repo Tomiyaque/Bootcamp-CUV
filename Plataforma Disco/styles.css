@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+
+.titulos{
+    background-color: white;
+    color: deeppink;
+}
+
+.info{
+    font-size: 150%;
+  color: white;
+}
+
+.header{
+    background-color: hotpink;
+    padding: 40px;
+    border: 2px solid black;
+    border-radius: 40px;
+    width: 400px;
+    height: 400px;
+    margin:60px auto;
+    text-align: center;
+    padding-bottom: 60px;
+}
